@@ -13,7 +13,7 @@ from subprocess import check_output
 ## Set up argument parser to execute from shell
 parser = argparse.ArgumentParser()
 
-parser.add_argument('-model', default='ccrackstation_model.t7')
+parser.add_argument('-model', default='crackstation_model.t7')
 parser.add_argument('-length', default='16')
 parser.add_argument('-input_txt', default='pass.txt')
 parser.add_argument('-output_txt', default='pass.out')
