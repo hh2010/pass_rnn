@@ -17,14 +17,14 @@ There is no Jupyter notebook or single script to pull this project together. The
   * Simple Python script to make it easier to run the torch-rnn model and output a large number of results to a text file 
 * [Crackstation-Human-Only.txt](/crackstation-human-only.txt)
   * Original list of 65 million real human passwords from [Crackstation](https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm)
-* [Crackstation-Human-Stemmed.txt](/Crackstation-Human-Stemmed.txt)
+* [Crackstation-Human-Stemmed.txt](/crackstation-human-stemmed.txt)
   * The "base words" from Crackstation's password list after using epixoip's [bash command](https://hashcat.net/forum/thread-1305.html) to remove numbers and special characters
   * This is the password list that I trained the model on
-* [eHarmony-Hashes.txt](/eHarmony-Hashes.txt)
+* [eHarmony-Hashes.txt](/eharmony-hashes.txt)
   * The leaked eHarmony password database breach with over 1.5 million MD5 hashed passwords
-* [Generated_List.txt](/Generated_List.txt)
+* [Generated_List.txt](/generated_list.txt)
   * The new dictionary that was generated from the model
-* [Pass_Pres.pdf](/Pass_Pres.pdf)
+* [Pass_Pres.pdf](/pass_pres.pdf)
   * Class presentation in PDF format
   * You can find it in Reveal.js format [here](http://pass.hh2010.me/)
   
