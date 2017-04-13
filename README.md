@@ -4,7 +4,7 @@ Among the many problems with account passwords today is that they are often stor
 
 Inspired by other projects in this field, I trained a **recurrent neural network** that learns how humans construct passwords. From this trained model, I was able to generate a new dictionary of potential passwords which successfully cracked **over 50,000** real passwords from leaked hash databases.
 
-See my [blog post](https://www.hasanhaq.com/pass-rnn/) for more information.
+See my [blog post](https://www.hasanhaq.com/pass-rnn-1/) for more information.
 
 ## Repository Details
 
